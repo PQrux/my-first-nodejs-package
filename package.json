@@ -1,8 +1,9 @@
 {
-  "name": "my-first-nodejs-package",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@pqrux/my-first-nodejs-package",
+  "version": "1.0.1",
+  "description": "Simple package for demonstrate NPM PACKAGES.",
   "main": "lib/index.js",
+  "files": ["lib"],
   "scripts": {
     "test": "jest",
     "lint": "eslint src/*",
