@@ -10,10 +10,6 @@ It follows the best practices for typescript coding, separating every module, te
 
 ## TODO
 
-- eslint
-- prettier
-- Example
 - workflows
 - readme
-- allow import from index.js
 - publish to npm
