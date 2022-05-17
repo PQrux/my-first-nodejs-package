@@ -22,7 +22,3 @@ const result = Multiplication(3,3);
 
 console.log(result);
 ```
-
-## TODO
-
-- workflows

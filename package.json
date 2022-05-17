@@ -1,6 +1,6 @@
 {
   "name": "@pqrux/my-first-nodejs-package",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple package for demonstrate NPM PACKAGES.",
   "main": "lib/index.js",
   "files": [
