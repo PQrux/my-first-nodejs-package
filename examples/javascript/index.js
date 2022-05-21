@@ -1,3 +1,3 @@
-const MyFirstNodejsPackage = require("../../");
+const { Some } = require("../../");
 
-console.log("1 + 1 = " + MyFirstNodejsPackage.Some(1,1));
+console.log(Some(3,2));
